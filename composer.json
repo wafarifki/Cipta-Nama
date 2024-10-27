@@ -1,0 +1,24 @@
+{
+    "name": "wafarifki/Cipta-Nama",
+    "description": "Cipta Nama adalah sebuah library PHP yang berfungsi untuk menghasilkan nama-nama orang Indonesia, baik laki-laki maupun perempuan. Library ini dapat digunakan dalam berbagai proyek untuk menciptakan nama-nama Indonesia yang unik dan autentik.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wafa Rifqi Anafin",
+            "email": "wafarifqianafin@gmail.com",
+            "homepage": "https://github.com/wafarifki",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Wafarifki\\GeneratorNama\\": "src/"
+        }
+    },
+    "keywords": ["generator nama", "nama Indonesia", "php library", "nama laki-laki", "nama perempuan", "wafa rifqi anafin"]
+}

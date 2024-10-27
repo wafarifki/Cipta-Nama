@@ -17,7 +17,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Wafarifki\\GeneratorNama\\": "src/"
+          "Wafarifki\\CiptaNama\\": "src/"
         }
     },
     "keywords": ["generator nama", "nama Indonesia", "php library", "nama laki-laki", "nama perempuan", "wafa rifqi anafin"]

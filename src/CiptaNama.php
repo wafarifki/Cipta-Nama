@@ -1,7 +1,7 @@
 <?php 
     namespace Wafarifki\CiptaNama;
 
-    class GeneratorNama {
+    class CiptaNama {
         private $namaDepanPria = [
             'Adi',
             'Budi',
